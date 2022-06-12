@@ -4,3 +4,5 @@ Implementação de padrões em código de game para Programação Orientada a Ob
 - Padrão State
 - Chain of Responsability
 - Padrão Decorator
+
+Integrantes: Gabriel Zeitoum dos Santos e Vinicius Goulart de Farias Meres
